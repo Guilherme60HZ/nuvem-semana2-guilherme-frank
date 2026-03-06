@@ -1,8 +1,8 @@
 # nuvem-semana1-guilherme-frank
 
 ## Links
-- Repositorio: https://github.com/Guilherme60HZ/nuvem-semana1-guilherme-frank/
-- Site (GitHub Pages): https://guilherme60hz.github.io/nuvem-semana1-guilherme-frank/
+- Repositorio: https://github.com/Guilherme60HZ/nuvem-semana2-guilherme-frank/blob/main/
+- Site (GitHub Pages): https://guilherme60hz.github.io/nuvem-semana2-guilherme-frank/
 
 ## O que foi feito Semana1-atividade 1
 - Criei index.html, style.css e script.js pelo navegador
